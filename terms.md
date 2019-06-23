@@ -1,10 +1,11 @@
 
-Clique Development Terms of Service
+### Clique Development Terms of Service
 
 1. Terms
-By accessing our app, imin, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing imin. The materials contained in imin are protected by applicable copyright and trademark law.
-2. Use License
 
+By accessing our app, imin, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing imin. The materials contained in imin are protected by applicable copyright and trademark law.
+
+2. Use License
 
 Permission is granted to temporarily download one copy of imin per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
